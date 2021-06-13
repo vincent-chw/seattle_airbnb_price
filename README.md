@@ -15,4 +15,5 @@ Upon cleaning the dataset, we answer question 1 and 2.
 Then, we train a Random Forest Regressor using the cleaned dataset and find out the top 5 factors that influenced the listing price. 
 
 My Medium blog post can be found in the link below:
+
 https://medium.com/@vincent_chw/how-to-predict-seattle-airbnb-listing-price-using-machine-learning-with-python-e34a68449f0a
