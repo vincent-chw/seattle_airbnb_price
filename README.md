@@ -16,4 +16,24 @@ Then, we train a Random Forest Regressor using the cleaned dataset and find out 
 
 My Medium blog post can be found in the link below:
 
-https://medium.com/@vincent_chw/how-to-predict-seattle-airbnb-listing-price-using-machine-learning-with-python-e34a68449f0a
+https://vincent-chw.medium.com/how-to-predict-seattle-airbnb-listing-price-using-machine-learning-with-python-e34a68449f0a
+
+Files in repository:
+Python project file - Main project file consists of exploring the dataset, cleaning the dataset, find answers to the questions above, and train a Machine Learning model to predict the listing price. 
+
+seattle_listings.csv - The Seattle Airbnb Listing dataset downloaded from Kaggle. You can get the dataset from the link below as well. 
+
+https://www.kaggle.com/airbnb/seattle
+
+
+Libraries used:
+Numpy
+Pandas
+Matplotlib
+Random Forest Regressor
+R2 Score
+
+Version Control:
+Python version = 3.7.3
+Numpy = 1.18.5
+Pandas = 0.25.3
