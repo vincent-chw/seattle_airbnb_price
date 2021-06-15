@@ -19,6 +19,7 @@ My Medium blog post can be found in the link below:
 https://vincent-chw.medium.com/how-to-predict-seattle-airbnb-listing-price-using-machine-learning-with-python-e34a68449f0a
 
 Files in repository:
+
 Python project file - Main project file consists of exploring the dataset, cleaning the dataset, find answers to the questions above, and train a Machine Learning model to predict the listing price. 
 
 seattle_listings.csv - The Seattle Airbnb Listing dataset downloaded from Kaggle. You can get the dataset from the link below as well. 
