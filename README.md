@@ -28,13 +28,21 @@ https://www.kaggle.com/airbnb/seattle
 
 
 Libraries used:
+
 Numpy
+
 Pandas
+
 Matplotlib
+
 Random Forest Regressor
+
 R2 Score
 
 Version Control:
+
 Python version = 3.7.3
+
 Numpy = 1.18.5
+
 Pandas = 0.25.3
